@@ -12,3 +12,5 @@ export function Avatar(props: AvatarProps) {
       </AvatarFallBack>
    </AvatarContainer>
 }
+
+Avatar.displayName = 'Avatar'
