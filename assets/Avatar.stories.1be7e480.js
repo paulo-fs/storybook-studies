@@ -1,0 +1,2 @@
+import{A as t}from"./index.16c1413b.js";import"./index.963effa4.js";import"./iframe.b7bc92ca.js";import"./index.19042678.js";import"./jsx-runtime.18e1fbc6.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/paulo-fs.png",alt:"Paulo Souza"}},m={},c={args:{src:void 0}},l=["Primary","WithFallback"];export{m as Primary,c as WithFallback,l as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.1be7e480.js.map
